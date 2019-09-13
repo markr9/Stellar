@@ -6,3 +6,4 @@ hrdig: H-R diagram showing lines of constant radii.
 lamed and leequse: Lane-Emden equation plot for n=3. 
 lifetimestar: lifetime of a star calculation in billion of years. 
 pfract: pressure domenience of a star. 
+solar and solar2: stellar model for the Sun based on Lane-Emden equation. 
